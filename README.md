@@ -1,6 +1,6 @@
 # Trivia Site
 
-Trivia is a quiz trivia that consists of one multiple choice and one free response.
+Trivia is a quiz trivia made with HTML, CSS, and JavaScript that consists of one multiple choice and one free response.
 
 Run http-server in the terminal.
 

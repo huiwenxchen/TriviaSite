@@ -4,4 +4,6 @@ Trivia is a quiz trivia made with HTML, CSS, and JavaScript that consists of one
 
 Run http-server in the terminal.
 
-Please view trivia1.png and trivia2.png for images of of the website when the code is executed.  
+
+<img width="1019" alt="trivia1" src="https://user-images.githubusercontent.com/97475388/150041518-7f0b3a5c-cbd8-42e7-b818-00ed894da4ef.png">
+<img width="1024" alt="trivia2" src="https://user-images.githubusercontent.com/97475388/150041521-e05e4c94-e0d1-451f-a205-431001f59552.png">
